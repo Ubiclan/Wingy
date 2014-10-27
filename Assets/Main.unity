@@ -172,7 +172,7 @@ GameObject:
   - 95: {fileID: 425540469}
   - 114: {fileID: 425540470}
   m_Layer: 0
-  m_Name: player_fly_f01
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -224,7 +224,7 @@ SpriteRenderer:
   m_ScaleInLightmap: 1
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 214905f5174f042bcb275821987b81c6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4b55b0ef15bd740558c9edcea4ce6e2c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &425540468
 Transform:
@@ -277,7 +277,7 @@ GameObject:
   - 4: {fileID: 1286431072}
   - 212: {fileID: 1286431071}
   m_Layer: 0
-  m_Name: scene_02_sky
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
